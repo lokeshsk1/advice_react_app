@@ -4,7 +4,7 @@ A React Advice App using React on the front end and making get requests to Advic
 
 ### Deployment
 
-https://hopeful-benz-d6952b.netlify.app/
+https://gallant-varahamihira-30cd24.netlify.app
 
 Setup:
 - run ```npm i && npm start```
